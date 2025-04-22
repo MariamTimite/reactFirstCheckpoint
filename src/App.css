@@ -1,0 +1,22 @@
+/* src/App.css */
+.App {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #030303;
+  flex-direction: column;
+}
+
+.Card {
+  text-align: center;
+}
+
+img {
+  max-width: 35%;
+  border-radius: 10px;
+}
+
+span{
+  color: white;
+}
